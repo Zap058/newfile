@@ -1,7 +1,10 @@
 newfile
 =======
 
-Bash script for automatically creating new files from templates, as well as inserting software licences
+_Bash script for automatically creating new files from templates, as well as inserting software licences._
+
+This script creates new files from templates created by the user and prints them to STDOUT, which can then be appended or piped into a new file / elsewhere. Mainly to be used as a tool to quickly make new files with licences included and anything else the user may typically put in the file being created (for example, specific packages).
+
 
 NOTE: This script will likely stay a work-in-progress and will likely never be production-quality. Be warned.
 
