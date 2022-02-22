@@ -70,4 +70,4 @@ function generate_new_file () {
 }
 
 licence="$(generate_licence $LICENCE_TEMPLATE $AUTHOR $YEAR)"
-generate_new_file $TEMPLATE_DIRECTORY"perl.template" "$licence"
+generate_new_file $TEMPLATE_DIRECTORY"latex.template" "$licence"
