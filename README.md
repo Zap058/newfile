@@ -65,3 +65,11 @@ use warnings;
 
 \end{document}
 ```
+
+TODO
+====
+
+  * Add support for licences other than GPLv3
+  * Add command-line interface rather than hardcoded options
+  * Add more template support
+  * Add option to not include licence
