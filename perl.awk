@@ -3,4 +3,4 @@ NR==2       {
                 print licence_comment 
             } 
 
-            { print $0 }
+            { print }
